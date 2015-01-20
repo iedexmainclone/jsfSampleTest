@@ -1,1 +1,1 @@
-{"type":"maven","properties":[{"name":"builder.name","value":["maven"]}, {"name":"runner.name","value":["java-webapp-default"]}]}
+{"builders":{"default":"maven"},"type":"maven","attributes":{"language":["java"]}}
